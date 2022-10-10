@@ -5,11 +5,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=irfan378" alt="irfan378" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/irfan31345678" target="blank"><img src="https://img.shields.io/twitter/follow/irfan31345678?logo=twitter&style=for-the-badge" alt="irfan31345678" /></a> </p>
 
 - 🌱 I’m currently learning **GraphQL and DSA**
 
-- 📫 How to reach me **irfanbhat@proton.me**
+- 📫 How to reach me **irfanbhat3@proton.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
