@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=irfan378" alt="irfan378" /></a> </p>
 
 
-- 🌱 I’m currently learning **Redis and DSA**
+- 🌱 I’m currently learning **Testing and DSA**
 
 - 📫 How to reach me **irfanbhat3@proton.me**
 
